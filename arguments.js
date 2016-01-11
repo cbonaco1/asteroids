@@ -114,4 +114,4 @@ var sumThree = function (num1, num2, num3) {
   return num1 + num2 + num3;
 };
 
-console.log(sumThree.curry(3)(14)(20)(6)); // 30
+// console.log(sumThree.curry(3)(14)(20)(6)); // 30
